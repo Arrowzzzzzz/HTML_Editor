@@ -8,4 +8,4 @@ img(标签名) ../../图片/$HZ9Y3K@}5_QDG8RSM[3A%F.jpg(图片路径) zy(图片�
 
 读取文件显示在图形化中，只能读取以该程序生成或特定格式的文件。
 <img src="./2.jpg" title="文件格式" alt="Arrowzzzzzz@protonmail.com">
-<img src="./1.jpg" title="读取文件到界面中" alt="Arrowzzzzzz@protonmail.com">
+<img src="./3.jpg" title="读取文件到界面中" alt="Arrowzzzzzz@protonmail.com">
